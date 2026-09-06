@@ -20,6 +20,10 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
         <item name="android:windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/bg_console_gradient</item>
+        <item name="android:colorAccent">@color/console_accent</item>
+        <item name="android:textColorPrimary">@color/console_text_primary</item>
+        <item name="android:textColorSecondary">@color/console_text_secondary</item>
     </style>
 
     <style name="StreamBaseTheme" parent="AppBaseTheme">

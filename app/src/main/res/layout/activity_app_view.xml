@@ -23,9 +23,12 @@
         android:layout_centerHorizontal="true"
         android:layout_alignParentTop="true"
         android:gravity="center"
-        android:paddingTop="5dp"
-        android:paddingBottom="5dp"
+        android:paddingTop="16dp"
+        android:paddingBottom="12dp"
         android:preferKeepClear="true"
+        android:textColor="@color/console_text_primary"
+        android:textStyle="bold"
+        android:letterSpacing="0.04"
         android:textSize="28sp"/>
 
 </RelativeLayout>
