@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Console-style dark palette -->
+    <color name="console_bg_top">#10141C</color>
+    <color name="console_bg_bottom">#01050C</color>
+    <color name="console_surface">#1A2029</color>
+    <color name="console_surface_focused">#232B38</color>
+    <color name="console_accent">#3DDC84</color>
+    <color name="console_accent_dark">#1F9E58</color>
+    <color name="console_text_primary">#FFFFFF</color>
+    <color name="console_text_secondary">#9AA5B1</color>
+    <color name="console_offline">#3A4250</color>
+</resources>
